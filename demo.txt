@@ -1,0 +1,3 @@
+hello
+git init : tạo local repository
+git add <tên-file>
